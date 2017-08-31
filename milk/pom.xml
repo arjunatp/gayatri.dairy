@@ -5,7 +5,7 @@
   <groupId>gayatri</groupId>
   <artifactId>milk</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>milk</name>
   <url>http://maven.apache.org</url>
